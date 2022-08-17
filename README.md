@@ -8,6 +8,8 @@ pip install -r requirements.txt
 ```
 - Open app.py and set `REAL_FINGERPRINT_DIRECTORY` and `scanned_fingerprint_filename`
 
+Dataset sourced from https://www.kaggle.com/datasets/ruizgara/socofing
+
 - Run app.py
 ```
 python app.py
