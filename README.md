@@ -14,3 +14,11 @@ Dataset sourced from https://www.kaggle.com/datasets/ruizgara/socofing
 ```
 python app.py
 ```
+## Graph of Threshold Vs Score
+- Set `true_fingerprint_name` to the name of file we expect the given fingerprint to correctly match
+- Run app.py and choose the "generate csv" option
+- A file `results.csv` should be created in the same directory
+- Run graph.py
+```
+python graph.py
+```
