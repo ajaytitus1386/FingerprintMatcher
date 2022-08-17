@@ -1,5 +1,5 @@
 # FingerprintMatcher
-A Python OpenCV2 project made for Image Processing CSE3002
+A Python OpenCV2 project made for Image Processing CSE3020
 
 ## Setup
 - Install packages with req file or maunually install
